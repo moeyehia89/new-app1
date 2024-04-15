@@ -10,3 +10,4 @@ def tests_add5():
     assert r == 10
     r = add5(10.102645)
     assert r == 10.102645
+print("new test cases")
