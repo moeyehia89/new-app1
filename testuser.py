@@ -1,3 +1,3 @@
 data = input("Please enter your choice")
-print(f"your choice is : {data})
+print(f"your choice is : {data}")
 
